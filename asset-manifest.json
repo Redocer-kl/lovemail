@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lovemail/static/css/main.e7a2c1b7.css",
+    "main.js": "/lovemail/static/js/main.12032591.js",
+    "static/media/middle.png": "/lovemail/static/media/middle.4ced46c3967ebc19737b.png",
+    "static/media/bottom.png": "/lovemail/static/media/bottom.4d2d6430c54fcd78917a.png",
+    "static/media/top.png": "/lovemail/static/media/top.db407e81f43eb85dc270.png",
+    "static/media/Maki Sans.ttf": "/lovemail/static/media/Maki Sans.9d411b80cc14eea780bf.ttf",
+    "index.html": "/lovemail/index.html",
+    "main.e7a2c1b7.css.map": "/lovemail/static/css/main.e7a2c1b7.css.map",
+    "main.12032591.js.map": "/lovemail/static/js/main.12032591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7a2c1b7.css",
+    "static/js/main.12032591.js"
+  ]
+}
