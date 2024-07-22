@@ -1,0 +1,35 @@
+.scroll {
+    position: relative;
+    width: 100%; /* Ширина свитка */
+    overflow: hidden; /* Скрыть всё, что выходит за границы */
+}
+
+.scroll-top{
+    background: transparent url('../public/images/top.png') repeat; 
+    padding: 10px;
+    height: 100px;
+    cursor: pointer; /* Курсор указывает, что элемент кликабельный */
+    background-size: 100% 100%;
+}
+
+.scroll-bottom {
+    background:  transparent url('../public/images/bottom.png') repeat; 
+    padding: 10px;
+    height: 100px;
+    cursor: pointer; /* Курсор указывает, что элемент кликабельный */
+    background-size: 100% 100%;
+}
+
+.scroll-content {
+    display: block; /* Показываем содержимое */
+    background: transparent url('../public/images/middle.png') repeat; /* Добавьте текстуру */
+    padding: 10%; /* Отступы для текста */
+    padding-left: 15%;
+    background-size: 100%;
+    text-align: left;
+}
+
+.scroll-text{
+    font-size: 2rem;
+    font-family: 'Maki Sans';
+}
